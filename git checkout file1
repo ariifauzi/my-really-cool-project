@@ -1,0 +1,29 @@
+commit 0d42423b4b245d53ca9d58aff1fd1147feb118be
+Author: Ashari Fauzi <ashari.mahapatih@gmail.com>
+Date:   Thu Jul 6 04:36:09 2017 +0000
+
+    Changing file2
+
+commit c5f728b1ef31d5cbdadf2cc3f686c1664d6c729a
+Author: Ashari Fauzi <ashari.mahapatih@gmail.com>
+Date:   Thu Jul 6 04:35:10 2017 +0000
+
+    Change file1
+
+commit a99a83da30109e8ce7abc974b6ab1a2457239dd3
+Author: Ashari Fauzi <ashari.mahapatih@gmail.com>
+Date:   Thu Jul 6 04:04:35 2017 +0000
+
+    Add new project files
+
+commit cbd651a8c2bb6ddb3929df06d5a87e0d81a2c87c
+Author: Ashari Fauzi <ashari.mahapatih@gmail.com>
+Date:   Wed Jul 5 09:13:54 2017 +0000
+
+    Added project mission statement to README file.
+
+commit 8a674851dac6ec27b2c9ced06c867129e50cd6d7
+Author: Treehouse User <treehouse@ip-10-238-156-134.ec2.internal>
+Date:   Wed Jul 5 08:59:20 2017 +0000
+
+    Added a README file.
